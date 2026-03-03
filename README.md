@@ -1,7 +1,7 @@
 # A Better Finder Rename – Batch File Renamer
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/6322/l/a-better-finder-rename-logo.png?v=1697107795" width="200" alt="A Better Finder Rename icon"/>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/03/c2/1a03c271-9b6d-3eaf-5f35-53c912b40cae/Placeholder.mill/200x200bb-75.webp" width="200" alt="A Better Finder Rename icon"/>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/352311/m/a-better-finder-rename-screenshot.png?v=1697107798" alt="A Better Finder Rename screenshot"/>
+  <img src="https://macx.ws/uploads/posts/2019-10/1571128410_a-better-finder-rename_01.jpg" alt="A Better Finder Rename screenshot"/>
 </p>
 
 ---
